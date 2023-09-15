@@ -1,0 +1,5 @@
+Hola soy un archivo de texto
+asd
+asda
+adfa
+asdaSoy un texto creado en phpSoy un texto creado en phpSoy un texto creado en phpSoy un texto creado en php
