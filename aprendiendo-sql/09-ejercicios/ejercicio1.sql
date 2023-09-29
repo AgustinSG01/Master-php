@@ -96,6 +96,7 @@ INSERT INTO clientes VALUES(null, 1, "Relojeria pipi", "Torremolinos", 64000);
 INSERT INTO clientes VALUES(null, 1, "Imprenta tinta", "Albacete", 65000);
 INSERT INTO clientes VALUES(null, 1, "Doff malvados y asociados", "Barcelona", 245000);
 INSERT INTO clientes VALUES(null, 1, "Donald trompetas", "Malaga", 170000);
+INSERT INTO clientes VALUES(null, 8, "Mercacoca", "Madrid", 0);
 
 -- ENCARGOS
 INSERT INTO encargos VALUES(null, 1, 1, 2, CURDATE());
